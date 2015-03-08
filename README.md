@@ -1,2 +1,2 @@
 # Perceptron-ZipCodeData
-<a href="http://nbviewer.ipython.org/github/TAvant/Perceptron-ZipCodeData/blob/master/perceptron.ipynb">Using a Perceptron with sigmodial unit to predict the digits of handwritten zip code images.</a>
+<a href="http://nbviewer.ipython.org/github/TAvant/Perceptron-ZipCodeData/blob/master/perceptron.ipynb">Using a Perceptron with sigmoidal unit to predict the digits of handwritten zip code images.</a>
